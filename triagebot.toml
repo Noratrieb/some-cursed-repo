@@ -2,3 +2,6 @@
 trigger_labels = [
   "bug"
 ]
+
+[autolabel."invalid"]
+new_issue = true
