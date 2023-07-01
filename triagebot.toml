@@ -10,6 +10,6 @@ new_issue = true
 new_pr = true
 
 [autolabel."help wanted"]
-new_pr = true
+new_pr = truedfdfdfd
 new_issue = true
 exclude_labels = ["duplicate"]
