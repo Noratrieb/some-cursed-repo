@@ -5,3 +5,10 @@ trigger_labels = [
 
 [autolabel."invalid"]
 new_issue = true
+
+[autolabel."documentation"]
+new_pr = true
+
+[autolabel."help wanted"]
+new_pr = true
+new_issue = true
