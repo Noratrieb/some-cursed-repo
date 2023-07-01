@@ -1,0 +1,4 @@
+[autolabel."wontfix"]
+trigger_labels = [
+  "bug"
+]
