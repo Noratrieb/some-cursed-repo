@@ -4,7 +4,7 @@ trigger_labels = [
 ]
 
 [assign]
-users_on_vacation = ["octocat"]
+users_on_vacation = ["Noratrieb"]
 
 [autolabel."invalid"]
 new_issue = true
