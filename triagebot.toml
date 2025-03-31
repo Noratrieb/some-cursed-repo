@@ -3,6 +3,9 @@ trigger_labels = [
   "bug"
 ]
 
+[assign]
+users_on_vacation = ["octocat"]
+
 [autolabel."invalid"]
 new_issue = true
 
